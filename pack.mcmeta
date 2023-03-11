@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": "\u00A76Log Stick Datapack\u00A7a\nVersion 1.19+"
+    },
+    "authors": {
+        "author_owner": "GamingOnInsulin",
+        "link_github": "https://gamingoninsulin.github.io/cluster/"
+    },
+	"pack_information": {
+		"mincraft_version": "1.19.X"
+	}
+}

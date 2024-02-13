@@ -1,12 +1,11 @@
 {
     "type": "crafting_shaped",
     "pattern": [
-      "   ",
-      "  L",
-      "  L"
+		"#",
+        "#"
     ],
     "key": {
-      "L": {
+      "#": {
         "tag": "minecraft:logs"
       }
     },

@@ -1,13 +1,7 @@
-{
-    "pack": {
-        "pack_format": 10,
-        "description": "§5CraftWithLogs\n§2Minecraft §6Version 1.20.X"
-    },
-    "authors": {
-        "author_owner": "GamingOnInsulin",
-        "link_github": "https://gamingoninsulin.github.io/cluster/"
-    },
-	"pack_information": {
-		"mincraft_version": "1.20.X"
-	}
+  {
+  "pack": {
+	   "pack_format": 15,
+		"supported_formats": {"min_inclusive": 15, "max_inclusive": 26},
+		"description": "Adds recipes for logs to craft 16x sticks and 4x chests."
+  }
 }

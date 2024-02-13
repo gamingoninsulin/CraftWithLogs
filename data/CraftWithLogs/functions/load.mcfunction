@@ -1,0 +1,1 @@
+schedule function CraftWithLogs:welcome 3s append

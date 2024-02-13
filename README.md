@@ -12,6 +12,34 @@
 
 <br>
 
+
+
+ <div align="center">
+  <hr>
+   RECIPES INFORMATION
+  <hr>
+</div>
+<div align="center">
+<p>
+    All wood types are compatible: log / stem / wood / stripped_wood / bamboo.<br><br>
+ <img src="https://raw.githubusercontent.com/gamingoninsulin/GamingOnInsulin-MODDEV/release/Source%20Files%20for%20Github%20Linking/Needed%20Items/Needed%20Items%20(CraftWithLogs).PNG?token=GHSAT0AAAAAACNO5AYXGZG4HG2UDM3KIOHOZOLQEKA"/>
+<br>
+<br>
+    
+<hr>
+    
+<p>Crafting Recipe: sticks</p>
+<p>
+<img src="https://raw.githubusercontent.com/gamingoninsulin/GamingOnInsulin-MODDEV/release/Source%20Files%20for%20Github%20Linking/Crafting%202x2/crafting%20recipe%20sticks%20(CraftWithLogs).PNG?token=GHSAT0AAAAAACNO5AYWQFRLPJ4US7G6GI3GZOLQCSQ">
+</p>
+<hr>
+<p>Chest Recipe: chests</p>
+<p>
+   <img src="https://raw.githubusercontent.com/gamingoninsulin/GamingOnInsulin-MODDEV/release/Source%20Files%20for%20Github%20Linking/Crafting%203x3/crafting%20recipe%20chests%20(CraftWithLogs).PNG?token=GHSAT0AAAAAACNO5AYXYUWDPVK4CEZUFQHQZOLQC7A"/>
+</p>
+
+</div>
+
 <div align="center">
   <hr>
   CONTACT INFORMATION

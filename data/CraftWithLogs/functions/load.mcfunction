@@ -1,1 +1,1 @@
-schedule function CraftWithLogs:welcome 3s append
+schedule function craftwithlogs:welcome 3s append
